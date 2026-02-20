@@ -1,0 +1,11 @@
+{
+  "Name": "MoreKidsPatch",
+  "Author": "Candidus42",
+  "Version": "1.0",
+  "Description": "SaveGamePrettyPrinter",
+  "UniqueID": "Candidus42.SaveGamePrettyPrinter",
+  "EntryDll": "SaveGamePrettyPrinter.dll",
+  "MinimumApiVersion": "4.1.2",
+  "Dependencies": [],
+  "UpdateKeys": []
+}

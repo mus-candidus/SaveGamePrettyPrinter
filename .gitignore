@@ -1,0 +1,14 @@
+# VS Settings
+.vs/
+
+# Rider Settings
+.idea/
+
+# Intermediate files and binaries
+[Dd]ebug/
+[Rr]elease/
+[Bb]in/
+[Oo]bj/
+
+# Built mod packages
+releases/
